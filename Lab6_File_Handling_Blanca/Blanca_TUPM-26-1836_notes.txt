@@ -1,0 +1,5 @@
+Student: Blanca
+Student ID: TUPM-26-1836
+Seed digit: 6
+ID sum: 26
+Verification value: 162
