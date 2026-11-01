@@ -1,0 +1,7 @@
+CYBERSECURITY INCIDENT REPORT
+------------------------------
+Target Year: 2021
+Incidents in Target Year: 299
+Total Financial Loss: $15,873.41M
+Average Financial Loss: $53.09M
+Attack Type Counts: {'Phishing': 41, 'SQL Injection': 59, 'Malware': 49, 'DDoS': 47, 'Ransomware': 55, 'Man-in-the-Middle': 48}
